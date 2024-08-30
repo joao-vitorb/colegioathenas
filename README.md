@@ -23,7 +23,7 @@ This project was developed with the following technologies:
 
 This is a website based on my childhood school called Athenas.
 
-- [Access the finished project online](https://joao-vitorb.github.io/athenas)
+- [Access the finished project online](https://joao-vitorb.github.io/colegioathenas)
 
 ## :memo: Licença
 
