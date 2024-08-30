@@ -29,4 +29,4 @@ This is a website based on my childhood school called Athenas.
 
 ---
 
-Developed with ♥ by Joao Vitor Borges :wave:# tsvet
+Developed with ♥ by Joao Vitor Borges :wave:
