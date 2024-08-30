@@ -44,10 +44,10 @@ const Contact = () => {
           university community.
         </p>
         <ul>
-          <li><img src={mail_icon} />Contact@GreatStack.dev</li>
+          <li><img src={mail_icon} />contact@athenas.com</li>
           <li><img src={phone_icon} />+1 123-456-7890</li>
           <li><img src={location_icon} />
-            77 Massachusetts Ave, Cambridge <br /> MA 02139, United States
+            123 Street Name, City <br /> STATE 01234, Country
           </li>
         </ul>
       </div>
